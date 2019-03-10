@@ -1,7 +1,9 @@
-package com.adzumi.moviesdb;
+package com.adzumi.moviesdb.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.adzumi.moviesdb.R;
 
 public class MainActivity extends AppCompatActivity {
 
